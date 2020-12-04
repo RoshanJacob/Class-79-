@@ -1,0 +1,4 @@
+for class 80: undefined operator abs
+expo update 36.0.0
+delete node_modules .expo .expo-shared package-lock.json files
+and run npm install again npm install --force expo update 36.0.0 expo start-c
